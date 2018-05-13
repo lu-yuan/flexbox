@@ -5,9 +5,9 @@ flexbox布局模式为布局、对齐、容器内的子项提供了更加高效�
 
 **备注：** flexbox适用于应用程序的组件和小规模的布局，而网格布局更适合于大规模的布局。
 
-*（new）意味着已成为规范的新语法（比如：display:flex;）
-*（tweener）意味着是来自2011年一种临时的非官方的语法（display:flexbox;）
-*（old）意味着来自2009年的老语法（display:box 
++（new）意味着已成为规范的新语法（比如：display:flex;）
++（tweener）意味着是来自2011年一种临时的非官方的语法（display:flexbox;）
++（old）意味着来自2009年的老语法（display:box 
 
 **期望：**
 
